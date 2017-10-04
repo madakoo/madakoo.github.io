@@ -20,7 +20,8 @@ body {
 
 @media screen and (max-width: 786px) {
   body {
-    font-size: 1.5rem;
+    font-size: 2rem;
+    background-color: grey;
   }
 
 }
